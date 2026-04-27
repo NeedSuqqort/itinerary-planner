@@ -1,6 +1,8 @@
 # Smart Itinerary Planner
 
-A travel planning app that generates itinerary plans with OpenAI, stores saved trips in SQLite, and provides a React + Chakra UI frontend for review, editing, and export.
+A travel planning app that generates itinerary plans with OpenAI, stores saved trips in SQLite, and provides a React + Chakra UI frontend for review, editing, and export. 
+
+**This is a simple project for practicing agentic coding.** 
 
 ## Project Overview
 
